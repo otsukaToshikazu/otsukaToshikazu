@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 <img align="left" target="_blank" alt="CSS" width="30px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/css.svg" />
 <img align="left" target="_blank" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" target="_blank" alt="TailwindCSS" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/tailwind.svg" />
+<img align="left" target="_blank" alt="ChakraUI" width="26px" src="https://chakra-ui.com/avatars/188034.jpg" />
+
 
   
 <img align="left" target="_blank" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
