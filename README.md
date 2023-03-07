@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 <img align="left" target="_blank" alt="Svelte" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/svelte.svg" />
 <img align="left" target="_blank" alt="NextJS" width="30px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/next_logo.png" />
 <img align="left" target="_blank" alt="Redux" width="30px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/redux.svg" />
-<img align="left" target="_blank" alt="Gatsby" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/StaticSiteGenerators/gatsby.svg" />
 <img align="left" target="_blank" alt="NodeJS" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/BackendDevelopment/nodejs.svg" />
 <img align="left" target="_blank" alt="Express" width="30px" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" />
 <img align="left" target="_blank" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/mongodb.svg" />
