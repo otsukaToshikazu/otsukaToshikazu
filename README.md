@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 ### 💻 Programming Languages and Tools:
 
+<img align="left" target="_blank" alt="Swift" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/swift.svg" />
 <img align="left" target="_blank" alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/typescript.svg" />
 <img align="left" target="_blank" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/javascript.svg" />
 <img align="left" target="_blank" alt="Svelte" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/svelte.svg" />
-<img align="left" target="_blank" alt="Swift" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/swift.svg" />
 <img align="left" target="_blank" alt="HTML" width="35px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/html.svg" />
 <img align="left" target="_blank" alt="CSS" width="35px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/css.svg" />
 <img align="left" target="_blank" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
