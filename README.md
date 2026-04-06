@@ -6,7 +6,7 @@ Currently focused on Next.js + Supabase web applications, AI-assisted developmen
 
 ### Stack
 
-[![Skills](https://skillicons.dev/icons?i=ts,python,swift,kotlin,react,nextjs,tailwind,supabase,postgres,vercel,docker,githubactions&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=ts,python,swift,kotlin,react,nextjs,tailwind,supabase,postgres,vercel,docker,apple,linux,windows&theme=dark)](https://skillicons.dev)
 
 ---
 
